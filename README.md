@@ -67,9 +67,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyra-andriatsitohaina&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kyra-andriatsitohaina&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyra-andriatsitohaina&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kyra-andriatsitohaina&theme=green_nur&hide_border=true&background=00000000" />
 </p>
 
 ---
